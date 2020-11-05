@@ -1,5 +1,5 @@
 # xPlNet_codebase
-Code base for "An explainable deep machine vision framework for plant stress phenotyping": https://www.pnas.org/content/115/18/4613
+Code base for "An explainable deep machine vision framework for plant stress phenotyping"
 
 # Citation:
 If you use the cides in this repository, please cite the following paper (https://www.pnas.org/content/115/18/4613):
