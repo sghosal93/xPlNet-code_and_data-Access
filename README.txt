@@ -11,7 +11,7 @@ Thank you for your interest. The download link will be sent to your email once t
 
 Please note: The data available through this link are of RGB images, each of shape [64 X 64 X 3]. If a higher resolution dataset is required, please address your request to: 
 
-soumiks@iastate.edu (while cc'ing: sghosal@media.mit.edu)
+soumiks@iastate.edu (while cc'ing: sambuddha.ghosal@gmail.com)
 
 Users are welcome to create "Issues" within this repository if they face any problems regarding execution and/or deployment of the trained model on their own data-sets or on the shared data: https://github.com/SCSLabISU/xPLNet/issues
 
